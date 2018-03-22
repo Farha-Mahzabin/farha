@@ -1,0 +1,10 @@
+C:\Users\HP\MYAPP\bin\Debug\netcoreapp2.0\MYAPP.deps.json
+C:\Users\HP\MYAPP\bin\Debug\netcoreapp2.0\MYAPP.runtimeconfig.json
+C:\Users\HP\MYAPP\bin\Debug\netcoreapp2.0\MYAPP.runtimeconfig.dev.json
+C:\Users\HP\MYAPP\bin\Debug\netcoreapp2.0\MYAPP.dll
+C:\Users\HP\MYAPP\bin\Debug\netcoreapp2.0\MYAPP.pdb
+C:\Users\HP\MYAPP\obj\Debug\netcoreapp2.0\MYAPP.csproj.CoreCompileInputs.cache
+C:\Users\HP\MYAPP\obj\Debug\netcoreapp2.0\MYAPP.AssemblyInfoInputs.cache
+C:\Users\HP\MYAPP\obj\Debug\netcoreapp2.0\MYAPP.AssemblyInfo.cs
+C:\Users\HP\MYAPP\obj\Debug\netcoreapp2.0\MYAPP.dll
+C:\Users\HP\MYAPP\obj\Debug\netcoreapp2.0\MYAPP.pdb
